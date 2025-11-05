@@ -11,10 +11,7 @@ import Box from '@mui/material/Box'
 import Button from '@mui/material/Button'
 import CheckBoxIcon from '@mui/icons-material/CheckBox'
 import AddCircleIcon from '@mui/icons-material/AddCircle'
-
-
 import fetchAuth from '../../lib/fetchAuth'
-
 
 export default function UsersList() {
 
